@@ -56,7 +56,7 @@ server <- function(input, output, session) {
       addLegend(position = "bottomright", 
                 colors = colors,
                 labels= etiquetas,
-                title = "Intervalos") 
+                title = "Total") 
     updateRadioGroupButtons(session, "Id004", selected = "Centres privats")
   })
   observe({

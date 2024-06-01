@@ -1,0 +1,12 @@
+name: EducApp
+title: EducApp
+username: sergigis
+account: sergigis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12103395
+bundleId: 8684781
+url: https://sergigis.shinyapps.io/EducApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
